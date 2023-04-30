@@ -1,0 +1,2 @@
+echo"weird fishes"
+date
